@@ -23,3 +23,9 @@ ENV/
 
 # Документация по архитектуре
 architecture.md 
+
+# Тестовые файлы
+gemini-test.ipynb
+
+# macOS Finder files
+.DS_Store
